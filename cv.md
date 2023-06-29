@@ -10,5 +10,5 @@ I’m currently learning to code. I want to get knowledge and skills that will b
 **************************************
 ## Languages
 * Russian (native)
-## English
+### English
 * A2 (B1 in process)
